@@ -1,2 +1,2 @@
-# project-3-php
-Merupakan project lanjutan dari project-2-bootstrap, menggunakan php dalam pembuatannya
+# practice-php
+This project is a follow-up project from practice-bootstrap.
